@@ -61,16 +61,24 @@ Now I will check for 6 different files for stat analysis
 File 1 -> passpdf
 ![Screenshot (47)](https://user-images.githubusercontent.com/96972155/225274521-31211af4-4c3b-48d8-af2c-c3f344e51b73.png)
 
+here pylint have given us error 
+alarmtiming.py:3:0: C0411: standard import "import winsound" should be placed before "from playsound import playsound" (wrong-import-order)
 
 File 2 -> alarmtiming
 ![Screenshot (48)](https://user-images.githubusercontent.com/96972155/225274569-a526e1a8-023d-4be4-a638-7010f72e78eb.png)
-
+calendar.py:1:0: W0614: Unused import enum from wildcard import (unused-wildcard-import)
+calendar.py:1:0: W0614: Unused import sys from wildcard import (unused-wildcard-import)
+calendar.py:1:0: W0614: Unused import types from wildcard import (unused-wildcard-import)
+all of the erorr are related to unused-wildcard-import.
 
 File 3 -> calendar
 ![Screenshot (49)](https://user-images.githubusercontent.com/96972155/225274591-32ce2be6-16c2-4424-befe-ffe40bb228af.png)
 ![Screenshot (50)](https://user-images.githubusercontent.com/96972155/225274614-c98d14c6-4137-49d9-a44e-388969e3d135.png)
 
-
+paint.py:1:0: W0614: Unused import sys from wildcard import (unused-wildcard-import)
+paint.py:1:0: W0614: Unused import types from wildcard import (unused-wildcard-import)
+paint.py:1:0: W0614: Unused import TclError from wildcard import (unused-wildcard-import)
+all of the erorr are related to unused-wildcard-import.
 
 
 
@@ -80,6 +88,10 @@ File 4 -> paint
 ![Screenshot (51)](https://user-images.githubusercontent.com/96972155/225274752-c6ad96de-6722-43b3-9a47-bf31ef3644d1.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/96972155/225274784-69e89152-ead5-4a95-8b1e-47f1e4a46cc7.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/96972155/225274801-f155f19f-a1bd-4f59-aa27-c6865fbdcc72.png)
+paint.py:1:0: W0614: Unused import sys from wildcard import (unused-wildcard-import)
+paint.py:1:0: W0614: Unused import types from wildcard import (unused-wildcard-import)
+paint.py:1:0: W0614: Unused import TclError from wildcard import (unused-wildcard-import)
+all of the erorr are related to unused-wildcard-import.
 
 
 
@@ -89,7 +101,7 @@ File 5 -> random pass
 ![Screenshot (55)](https://user-images.githubusercontent.com/96972155/225274876-1ee2ddd9-099f-4ece-b7d1-387384858a1e.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/96972155/225274910-f7684bef-e218-4a4c-b269-0636017fc849.png)
 
-
+this file had much less errors compared to other files I analysed.
 
 
 
@@ -98,7 +110,9 @@ File 5 -> random pass
 File 6 -> source-code
 ![Screenshot (57)](https://user-images.githubusercontent.com/96972155/225274937-91343fcc-0248-4da1-876e-cc8201784e88.png)
 
-
+source-code.py:44:0: W0311: Bad indentation. Found 12 spaces, expected 8 (bad-indentation)
+source-code.py:1:0: C0103: Module name "source-code" doesn't conform to snake_case naming style (invalid-name)
+error related to above 2 bad indentation and invalid name can be resolved easily.
 
 
 
