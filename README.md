@@ -59,12 +59,16 @@ Now I will check for 6 different files for stat analysis
 ![Screenshot (58)](https://user-images.githubusercontent.com/96972155/225274028-467e28fc-7d3a-4817-9ccf-13a58167cbe1.png)
 
 File 1 -> passpdf
+![Screenshot (47)](https://user-images.githubusercontent.com/96972155/225274521-31211af4-4c3b-48d8-af2c-c3f344e51b73.png)
 
 
 File 2 -> alarmtiming
+![Screenshot (48)](https://user-images.githubusercontent.com/96972155/225274569-a526e1a8-023d-4be4-a638-7010f72e78eb.png)
 
 
 File 3 -> calendar
+![Screenshot (49)](https://user-images.githubusercontent.com/96972155/225274591-32ce2be6-16c2-4424-befe-ffe40bb228af.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/96972155/225274614-c98d14c6-4137-49d9-a44e-388969e3d135.png)
 
 
 
@@ -73,11 +77,17 @@ File 3 -> calendar
 
 
 File 4 -> paint
+![Screenshot (51)](https://user-images.githubusercontent.com/96972155/225274752-c6ad96de-6722-43b3-9a47-bf31ef3644d1.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/96972155/225274784-69e89152-ead5-4a95-8b1e-47f1e4a46cc7.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/96972155/225274801-f155f19f-a1bd-4f59-aa27-c6865fbdcc72.png)
 
 
 
 
 File 5 -> random pass
+![Screenshot (54)](https://user-images.githubusercontent.com/96972155/225274845-7cd2a7ba-5ae0-40c0-822a-0f1d7fd8ac59.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/96972155/225274876-1ee2ddd9-099f-4ece-b7d1-387384858a1e.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/96972155/225274910-f7684bef-e218-4a4c-b269-0636017fc849.png)
 
 
 
@@ -86,6 +96,7 @@ File 5 -> random pass
 
 
 File 6 -> source-code
+![Screenshot (57)](https://user-images.githubusercontent.com/96972155/225274937-91343fcc-0248-4da1-876e-cc8201784e88.png)
 
 
 
