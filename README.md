@@ -56,6 +56,7 @@ Here above attached is pylint been installed.
 
 
 Now I will check for 6 different files for stat analysis 
+![Screenshot (58)](https://user-images.githubusercontent.com/96972155/225274028-467e28fc-7d3a-4817-9ccf-13a58167cbe1.png)
 
 File 1 -> passpdf
 
